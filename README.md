@@ -3,9 +3,9 @@ EmoPy is a python toolkit with deep neural net classes which aims to make accura
 
 Forked from https://github.com/thoughtworksarts/EmoPy
 
-'Denis Perevalov note: in my experiments it works bad, not responding on my emptions.
+`Denis Perevalov note: in my experiments it works bad, not responding on my emptions.
 
-So I propose to use this toolkit: https://github.com/perevalovds/Emotion-recognition'
+So I propose to use this toolkit: https://github.com/perevalovds/Emotion-recognition`
 
 
 ![Labeled FER Images](readme_docs/labeled_images_7.png "Labeled Facial Expression Images")  
